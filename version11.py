@@ -12,7 +12,7 @@ import frameworks as frame
 
 app = Flask(__name__)
 
-openai_api_key = "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"
+openai_api_key = "key"
 
 
 csv_files = [
