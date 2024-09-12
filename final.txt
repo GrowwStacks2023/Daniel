@@ -1,0 +1,45 @@
+Rank 1:
+SCF: NIST ID PR.PS-02
+Methods: Software Maintenance, Replacement, and Removal
+Description: This Security Control Framework focuses on maintaining, replacing and removing software in a manner that is commensurate with the associated risk. In this context, it applies to processes such as installing and updating antivirus software. The intent of this control is to ensure that proper procedures are in place to effectively manage software-related security measures without compromising system stability.
+Input Relevance: 0.1630
+Domain Relevance: 0.0000
+Control + Description Relevance: 0.1525
+Final Score: 0.1109
+
+Rank 2:
+SCF: NIST ID PR.PS-01
+Methods: Configuration Management Practices
+Description: This Security Control Framework is concerned with establishing and applying configuration management practices. This involves defining and implementing processes to manage system configurations with the aim to achieve and maintain system stability while implementing necessary updates, like those related to antivirus software. The control is designed to ensure that security is not compromised as system configurations are modified to meet evolving needs.
+Input Relevance: 0.1299
+Domain Relevance: 0.0000
+Control + Description Relevance: 0.1323
+Final Score: 0.0916
+
+Rank 3:
+SCF: VPM-05.4
+Methods: Vulnerability & Patch Management - Automated Software & Firmware Updates
+Description: This control emphasizes on the importance of using automated mechanisms to install the most recent and stable versions of security-relevant software and firmware updates. Under this control, systems are kept fully updated without human intervention, reducing human error and ensuring security patches are applied promptly. This assists in reducing potential windows of vulnerability.
+Input Relevance: 0.0923
+Domain Relevance: 0.0000
+Control + Description Relevance: 0.1006
+Final Score: 0.0671
+
+Rank 4:
+SCF: END-04.1
+Methods: Endpoint Security - Automatic Antimalware Signature Updates
+Description: This control provides a protective layer to your system by ensuring that all mechanisms are in place to automatically update antimalware technologies. This includes updating the definitions of the signatures which aid in identifying and blocking threats in real time. Maintaining these automatic updates ultimately strengthens your systems' resilience against malicious attempts.
+Input Relevance: 0.0903
+Domain Relevance: 0.0000
+Control + Description Relevance: 0.0971
+Final Score: 0.0653
+
+Rank 5:
+SCF: VPM-04.1
+Methods: Vulnerability & Patch Management - Stable Versions
+Description: This control guarantees that frameworks are in place to implement the latest stable versions of any software and/or security-related updates on all relevant systems. With constant evolution of software systems, it is crucial to keep all applications updated. This reduces the chance of exploitation of any known vulnerabilities present in outdated versions, thereby increasing overall system security.
+Input Relevance: 0.0446
+Domain Relevance: 0.0000
+Control + Description Relevance: 0.0468
+Final Score: 0.0319
+

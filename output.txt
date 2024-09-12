@@ -1,0 +1,44 @@
+[
+    {
+        "SCF": "END-04.1",
+        "Methods": "Endpoint Security - Automatic Antimalware Signature Updates",
+        "Description": "This control ensures that mechanisms are in place to update antimalware technologies such as signature definitions automatically. This is crucial for maintaining the system's security by enabling a rapid response to emerging threats. Operational continuity is safeguarded as auto-updates can happen in the background, minimizing the risk of system crashes."
+    },
+    {
+        "SCF": "VPM-05.4",
+        "Methods": "Vulnerability & Patch Management - Automated Software & Firmware Updates",
+        "Description": "This control emphasizes the use of automated processes to install the latest stable versions of security-related software and firmware updates. An automated update approach minimizes possible human error chances, ensures consistency in applying updates, and reduces the risk of system crashes due to poorly executed manual updates."
+    },
+    {
+        "SCF": "VPM-04.1",
+        "Methods": "Vulnerability & Patch Management - Stable Versions",
+        "Description": "This control necessitates mechanisms to install the latest stable versions of software and security-related updates across all relevant systems. Employing the newest stable software releases ensures the system utilizes the most updated security features while establishing a more predictable performance baseline across the network. This can contribute substantially to maintaining the system's stability during substantial updates or overhauls."
+    }
+]
+
+[
+    {
+        "SCF": "NIST ID PR.PS-02",
+        "Methods": "Software maintenance, replacement, and removing",
+        "Description": "Antivirus software and other system software need to be maintained, replaced, and removed commensurately with their risk levels to the system. Maintaining software refers to regular updates and upgrades to address vulnerabilities and enhance functionality. Replacement involves substituting outdated or ineffective software with newer, more effective ones. Removal pertains to getting rid of software that is redundant, obsolete, or poses security threats. This control is significant for ensuring system stability, performance, and security."
+    },
+    {
+        "SCF": "NIST ID PR.PS-01",
+        "Methods": "Configuration management practices",
+        "Description": "Configuration management practices need to be established and effectively applied to the system. This refers to the systematic approach to managing changes to system configuration. It ensures that the system operates as intended while minimizing disruptions. The configuration involves software, hardware, network settings, and other system components. Properly applying configuration management practices maintains system stability, reduces security risks, and improves system adaptability to changing business requirements."
+    }
+]
+
+[
+    {
+        "SCF": "DE.CM-09",
+        "Methods": "Installing and maintaining antivirus and anti-malware software",
+        "Description": "The control DE.CM-09 emphasizes the importance of installing and maintaining antivirus and anti-malware software across all types of business devices. This includes servers, desktops, and laptops. The main focus is virus and malware protection. An effective antivirus program can detect, prevent, and remove malicious software before it causes significant damage to your network or systems. Regular updates and maintenance of these programs are critical to ensure maximum efficiency and protection."
+    },
+    {
+        "SCF": "PR.PS-02",
+        "Methods": "Regularly updating and patching software and operating systems",
+        "Description": "The control PR.PS-02 emphasizes the critical role of regularly updating and patching software and operating systems in system security. Updates often include patches for vulnerabilities that could be exploited by malicious entities. By keeping system software and operating systems up-to-date, your systems are less likely to be affected by those vulnerabilities. Regular patch management is key to maintaining a secure and robust digital infrastructure."
+    }
+]
+

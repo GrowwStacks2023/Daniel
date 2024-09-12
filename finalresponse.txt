@@ -1,0 +1,317 @@
+Page 1:
+
+{
+  "Description": "Online",
+  "Maturity": "FAST sm Automated Telephone",
+  "Quantity": "Private Client Group",
+  "Price Per Unit": "(800) 544-5555",
+  "Ending Market Value Accrued Interest (AI)": "(800) 544-5704",
+  "Total Cost Basis": null,
+  "Unrealized Gain/Loss": null,
+  "Est. Annual Income (EAI)": null,
+  "Coupon Rate": null
+}
+Page 1:
+
+{
+  "Description": "Change in Investment Value*",
+  "Maturity": "",
+  "Quantity": "",
+  "Price Per Unit": "",
+  "Ending Market Value Accrued Interest (AI)": "",
+  "Total Cost Basis": "",
+  "Unrealized Gain/Loss": "",
+  "Est. Annual Income (EAI)": "",
+  "Coupon Rate": ""
+}
+Page 1:
+
+{
+  "headers": [
+    "Description",
+    "Maturity",
+    "Quantity",
+    "Price Per Unit",
+    "Ending Market Value Accrued Interest (AI)",
+    "Total Cost Basis",
+    "Unrealized Gain/Loss",
+    "Est. Annual Income (EAI)",
+    "Coupon Rate"
+  ]
+}
+Page 1:
+
+{
+  "Description": "Income Summary",
+  "Maturity": "This Period",
+  "Quantity": "Year-to-Date",
+  "Price Per Unit": null,
+  "Ending Market Value Accrued Interest (AI)": null,
+  "Total Cost Basis": null,
+  "Unrealized Gain/Loss": null,
+  "Est. Annual Income (EAI)": null,
+  "Coupon Rate": null
+}
+Page 1:
+
+{
+  "Description": "Johnson & Johnson (JNJ)",
+  "Maturity": null,
+  "Quantity": null,
+  "Price Per Unit": null,
+  "Ending Market Value Accrued Interest (AI)": null,
+  "Total Cost Basis": null,
+  "Unrealized Gain/Loss": null,
+  "Est. Annual Income (EAI)": null,
+  "Coupon Rate": null
+}
+Page 1:
+
+{
+  "Description": "Asset Class",
+  "Maturity": "Percent of Portfolio",
+  "Quantity": null,
+  "Price Per Unit": null,
+  "Ending Market Value Accrued Interest (AI)": null,
+  "Total Cost Basis": null,
+  "Unrealized Gain/Loss": null,
+  "Est. Annual Income (EAI)": null,
+  "Coupon Rate": null
+}
+Page 1:
+
+{
+  "Description": "Change in Investment Value*",
+  "Maturity": "",
+  "Quantity": "",
+  "Price Per Unit": "",
+  "Ending Market Value Accrued Interest (AI)": "",
+  "Total Cost Basis": "",
+  "Unrealized Gain/Loss": "",
+  "Est. Annual Income (EAI)": "",
+  "Coupon Rate": ""
+}
+Page 1:
+
+{
+  "Description": "Holding Type",
+  "Maturity": "Value",
+  "Quantity": "Percent of Account",
+  "Price Per Unit": "Ending Market Value of Holdings",
+  "Ending Market Value Accrued Interest (AI)": "$108,051",
+  "Total Cost Basis": "",
+  "Unrealized Gain/Loss": "",
+  "Est. Annual Income (EAI)": "",
+  "Coupon Rate": ""
+}
+Page 1:
+
+{
+  "Description": "Apple Inc (AAPL)",
+  "Maturity": "N/A",
+  "Quantity": "N/A",
+  "Price Per Unit": "N/A",
+  "Ending Market Value Accrued Interest (AI)": "N/A",
+  "Total Cost Basis": "N/A",
+  "Unrealized Gain/Loss": "N/A",
+  "Est. Annual Income (EAI)": "N/A",
+  "Coupon Rate": "N/A"
+}
+Page 1:
+
+{
+  "Description": "Core Account: FDIC Insured Deposit at Fifth Third Bank This Period Year-to-Date",
+  "Maturity": "",
+  "Quantity": "",
+  "Price Per Unit": "",
+  "Ending Market Value Accrued Interest (AI)": "",
+  "Total Cost Basis": "",
+  "Unrealized Gain/Loss": "",
+  "Est. Annual Income (EAI)": "",
+  "Coupon Rate": ""
+}
+Page 1:
+
+{
+  "Description": ["Taxable", "Dividends", "Interest", "Short-term Capital Gains", "Long-term Capital Gains", "Tax-exempt", "Dividends", "Interest", "Return of Capital", "Liquidations", "Total"],
+  "Maturity": [],
+  "Quantity": [],
+  "Price Per Unit": [],
+  "Ending Market Value Accrued Interest (AI)": [],
+  "Total Cost Basis": [],
+  "Unrealized Gain/Loss": [],
+  "Est. Annual Income (EAI)": [],
+  "Coupon Rate": []
+}
+Page 1:
+
+{
+  "Description": "Net Short-term Gain/Loss",
+  "Maturity": "",
+  "Quantity": "",
+  "Price Per Unit": "",
+  "Ending Market Value Accrued Interest (AI)": "",
+  "Total Cost Basis": "",
+  "Unrealized Gain/Loss": "",
+  "Est. Annual Income (EAI)": "",
+  "Coupon Rate": ""
+}
+Page 1:
+
+{
+  "Description": "FDIC INSURED DEPOSIT AT FIFTH THIRD BANK",
+  "Quantity": "3,500.500",
+  "Price Per Unit": "$1.000",
+  "Ending Market Value": "$3,500.50",
+  "Total Cost Basis": "N/A",
+  "Unrealized Gain/Loss": "\u2014",
+  "Est. Annual Income (EAI)": "\u2014",
+  "Coupon Rate": "0.010%"
+}
+Page 1:
+
+{
+  "Description": "DOUBLELINE TOTAL RETURN BOND FD CL I (DBLTX) - 30-day yield: 4.83%",
+  "Maturity": "",
+  "Quantity": "1,015.328",
+  "Price Per Unit": "$11.190",
+  "Ending Market Value Accrued Interest (AI)": "$11,361.52",
+  "Total Cost Basis": "$7,536.91c",
+  "Unrealized Gain/Loss": "$3,824.61",
+  "Est. Annual Income (EAI)": "$531.72",
+  "Coupon Rate": "4.68%"
+}
+Page 1:
+
+{
+  "Description": "SPDR SER TR BARCLAYS CAP HIGH YIELD BD ETF (JNK)",
+  "Quantity": "250.00",
+  "Price Per Unit": "$40.66",
+  "Ending Market Value": "$10,165.00",
+  "Total Cost Basis": "$10,000.00c",
+  "Unrealized Gain/Loss": "$165.00"
+}
+Page 1:
+
+{
+  "Description": ["Common Stocks", "APPLE INC (AAPL)", "AMERCO COM (UHAL)", "ENSTAR GROUP LIMITED COM STK USD 1.00 (ESGR)", "Total Common Stock (24% of account holdings)", "Preferred Stocks", "BANK AMER CORP DEP SHS REPSTG 1/1200TH PFD SER 5 (BMLPRL)", "M CITIGROUP INC DEP SH REP STG 1/100TH INT NON CUMULATIVE PFD SER F 8.50% (CPRM) ISIN: US1729675561", "Total Preferred Stock (8% of account holdings)", "Total Stocks (32% of account holdings)"],
+  "Maturity": [],
+  "Quantity": ["25.00", "30.00", "-100.00", "", "150.00", "300.00", "", ""],
+  "Price Per Unit": ["525.31", "203.15A", "137.10", "", "$20.230", "25.843", "", ""],
+  "Ending Market Value": ["$13,132.75", "6,094.50", "-13,
+Page 1:
+
+{
+  "Description": "Asset Backed Securities",
+  "Maturity": "",
+  "Quantity": "",
+  "Price Per Unit": "",
+  "Ending Market Value Accrued Interest (AI)": "",
+  "Total Cost Basis": "",
+  "Unrealized Gain/Loss": "",
+  "Est. Annual Income (EAI)": "",
+  "Coupon Rate": "",
+  "CUSIP": "3136FPEX1",
+  "Int. Semi-Annually": ""
+}
+Page 1:
+
+{
+  "Description": "Bonds (continued) Description",
+  "Maturity": "11/15/13",
+  "Quantity": "5,000.00",
+  "Price Per Unit": "$101.250",
+  "Ending Market Value Accrued Interest (AI)": "$5,062.50",
+  "Total Cost Basis": "$10,000.00\u20ba",
+  "Unrealized Gain/Loss": "-$4,937.50",
+  "Est. Annual Income (EAI)": "$300.00",
+  "Coupon Rate": "6.00%"
+}
+Page 1:
+
+{
+  "Description": "ADI NET LEASE INC & GROWTH LP XIX UNIT LTP PARTNERSHIP INT BASED ON MGMTS UNCONFIRMED EST OF NET ASSETS",
+  "Quantity": "5.000",
+  "Price Per Unit": "$291.000A",
+  "Ending Market Value Accrued Interest (AI)": "$1,455.00",
+  "Total Cost Basis": "unknown",
+  "Unrealized Gain/Loss": "unknown",
+  "Est. Annual Income (EAI)": "\u2014",
+  "Coupon Rate": "\u2014"
+}
+Page 1:
+
+{
+  "Description": "Transaction Description",
+  "Maturity": "Security Name",
+  "Quantity": "Quantity",
+  "Price Per Unit": "Price",
+  "Ending Market Value Accrued Interest (AI)": "Transaction Total",
+  "Total Cost Basis": "Cost Basis of Close",
+  "Unrealized Gain/Loss": "Transaction Cost",
+  "Est. Annual Income (EAI)": "Est. Annual Income (EAI)",
+  "Coupon Rate": "N/A"
+}
+Page 1:
+
+{
+  "headers": [
+    "Description",
+    "Maturity",
+    "Quantity",
+    "Price Per Unit",
+    "Ending Market Value Accrued Interest (AI)",
+    "Total Cost Basis",
+    "Unrealized Gain/Loss",
+    "Est. Annual Income (EAI)",
+    "Coupon Rate"
+  ]
+}
+Page 1:
+
+{
+  "Description": "Trans. from account 222-222222",
+  "Maturity": "",
+  "Quantity": "",
+  "Price Per Unit": "",
+  "Ending Market Value Accrued Interest (AI)": "$39,508.64",
+  "Total Cost Basis": "",
+  "Unrealized Gain/Loss": "",
+  "Est. Annual Income (EAI)": "",
+  "Coupon Rate": ""
+}
+Page 1:
+
+{
+  "Description": "Trans. to account 222-222222",
+  "Quantity": "",
+  "Price Per Unit": "",
+  "Ending Market Value Accrued Interest (AI)": "",
+  "Total Cost Basis": "",
+  "Unrealized Gain/Loss": "",
+  "Est. Annual Income (EAI)": "",
+  "Coupon Rate": ""
+}
+Page 1:
+
+{
+  "headers": ["Description", "Maturity", "Quantity", "Price Per Unit", "Ending Market Value Accrued Interest (AI)", "Total Cost Basis", "Unrealized Gain/Loss", "Est. Annual Income (EAI)", "Coupon Rate"]
+}
+Page 1:
+
+{
+  "Description": "Period",
+  "Maturity": "Period Balance",
+  "Quantity": "Interest Rate",
+  "Price Per Unit": "Average Daily Balance",
+  "Ending Market Value Accrued Interest (AI)": "Interest Paid"
+}
+Page 1:
+
+{
+  "Description": "Period",
+  "Maturity": "Period Balance",
+  "Quantity": "Interest Rate",
+  "Price Per Unit": "Average Daily Balance",
+  "Ending Market Value Accrued Interest (AI)": "Interest Paid"
+}
